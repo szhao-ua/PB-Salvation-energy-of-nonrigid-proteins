@@ -153,7 +153,7 @@ The output ($\Delta E_{12}$) is automatically saved to a text file in the workin
 
 #### Final Adjusted Solvation Energy
 For both DelPhi and APBS, the final corrected polar solvation energy is simply the sum of the rigid polar solvation energy (converted to kcal/mol) and the nonrigid energy contribution ($\Delta E_{12}$):
-$$\Delta E = E_{\text{rigid}} (\text{in kcal/mol}) + \Delta E_{12}$$
+$$\Delta E = \Delta E_{\text{rigid}} (\text{in kcal/mol}) + \Delta E_{12}$$
 
 ---
 ## References
